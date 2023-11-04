@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SG50 &#8211; SG Snaps</title>
+	<atom:link href="/tag/sg50/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Preserving Precious Memories</description>
+	<lastBuildDate>Tue, 31 Oct 2023 03:08:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Past Forward Event at National Library</title>
+		<link>/past-forward-event-at-national-library/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2015 08:47:12 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Exhibition]]></category>
+		<category><![CDATA[irememberSG]]></category>
+		<category><![CDATA[National Library]]></category>
+		<category><![CDATA[SG50]]></category>
+		<category><![CDATA[Singapore memory project]]></category>
+		<guid isPermaLink="false">/?p=1134</guid>
+
+					<description><![CDATA[Singapore Snaps will be part of the Past Forward: A Singapore Memory Project Showcase from 17 &#8211; 20 March, 9am &#8211; 6pm at the National Library, The Plaza at Level 1. If you are joining us for the launch on Wednesday, 10:30am &#8211; 12pm, do let us know so we can say hello to you!]]></description>
+										<content:encoded><![CDATA[<p>Singapore Snaps will be part of the <a title="Past Forward: A Singapore Memory Project Showcase" href="http://www.iremember.sg/index.php/past-forward/">Past Forward: A Singapore Memory Project Showcase</a> from <strong>17 &#8211; 20 March, 9am &#8211; 6pm</strong> at the <strong>National Library, The Plaza at Level 1</strong>.</p>
+<p>If you are joining us for the launch on Wednesday, 10:30am &#8211; 12pm, do let us know so we can say hello to you!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Presentation &#8211; SG Snaps</title>
+	<atom:link href="/tag/presentation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Preserving Precious Memories</description>
+	<lastBuildDate>Tue, 31 Oct 2023 03:06:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Singapore Snaps: Artist Talk at NLB on 4 July, 2pm</title>
+		<link>/singapore-snaps-presentation/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2015 05:50:01 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Growing up]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[National Library]]></category>
+		<category><![CDATA[Presentation]]></category>
+		<category><![CDATA[Singapore memory project]]></category>
+		<guid isPermaLink="false">/?p=1178</guid>
+
+					<description><![CDATA[We are presenting Singapore Snaps and the animations created using selected old photograph prints collected from the public in Singapore. Invited speakers are also sharing their stories on past and present Singapore. See you there! Free admission. Please register at bit.ly/1N86mEM 2pm, 4 July (Sat) at National Library Building Lvl 5. Learn how we preserve memories through the process of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We are presenting Singapore Snaps and the animations created using selected old photograph prints collected from the public in Singapore. Invited speakers are also sharing their stories on past and present Singapore. See you there!</p>
+<p>Free admission. Please register at <a href="http://bit.ly/1N86mEM">bit.ly/1N86mEM</a><br />
+2pm, 4 July (Sat) at National Library Building Lvl 5.</p>
+<p>Learn how we preserve memories through the process of digitising, and collecting stories from the photo contributors, in turn allowing our project to uncover the thread that weaves the unseen fabric of themes that hold us together, as an individual and as a unit of society.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
